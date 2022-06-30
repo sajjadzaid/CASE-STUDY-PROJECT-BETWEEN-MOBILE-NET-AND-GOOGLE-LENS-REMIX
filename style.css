@@ -1,0 +1,38 @@
+body{
+    background-color: dodgerblue;
+}
+
+h2{
+    color: brown;
+}
+
+h3{
+    color: gold;
+    font-weight: bolder;
+}
+
+#h3{
+    font-size: 30px;
+}
+
+.test_image_and_result{
+    background-color: bisque;
+    padding: 40px;
+    border-radius: 30px;
+    margin-top: 50px;
+    box-shadow: 20px 20px 20px orange;
+}
+
+.mini_result{
+    color: orangered;
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.output{
+    background-color: aquamarine;
+    padding: 13px;
+    border-radius: 30px;
+    font-size: 20px;
+}
